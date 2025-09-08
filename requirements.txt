@@ -1,0 +1,6 @@
+
+transformers>=4.40.0
+torch>=2.0.0
+streamlit>=1.32.0
+streamlit-chat>=0.1.1
+accelerate>=0.28.0
