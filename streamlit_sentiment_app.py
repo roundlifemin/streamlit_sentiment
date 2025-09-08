@@ -12,7 +12,7 @@ if 'model' not in st.session_state:
                     model="matthewburke/korean_sentiment")
     st.session_state['model'] = model
 
-st.title("🤖 감정분석 LLM")
+st.title("감정분석 LLM")
 st.markdown('---')
 
 with st.form('chat', clear_on_submit=True):
